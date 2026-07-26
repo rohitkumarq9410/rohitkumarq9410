@@ -45,8 +45,7 @@ A short, results-focused description of the project: what it does, the problem i
   <a href="https://github.com/rohitkumarq9410">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <i>“Build clean. Learn continuously. Deliver value.”</i>
+  <a href="https://www.linkedin.com/in/rohit-kumar-14990239b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
