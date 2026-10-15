@@ -102,9 +102,9 @@ I love finding the story hidden inside data. I'm building my skills step by step
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=rohitkumarq9410&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarq9410&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username = https://github.com/rohitkumarq9410&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=https://github.com/rohitkumarq9410&theme=tokyonight&hide_border=true" />
 
 </div>
 
