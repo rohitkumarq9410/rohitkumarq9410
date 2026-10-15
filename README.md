@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2c5364&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=rohitkumarq9410&label=Profile%20Views&color=2c5364&style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Data_Analytics-blue?style=for-the-badge)
 
@@ -101,8 +101,8 @@ I love finding the story hidden inside data. I'm building my skills step by step
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohitkumarq9410&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarq9410&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
