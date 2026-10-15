@@ -1,75 +1,128 @@
-# Hi, I'm Rohit Kumar 👋
+<!-- Header banner -->
+<div align="center">
 
-### Aspiring Data Analyst | Turning data into insights 📊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rohit%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=24&descAlignY=60" width="100%" />
 
-I'm passionate about working with data to find patterns, answer business questions, and support better decisions. I'm currently building my skills in data analysis and working toward a career as a **Data Analyst**.
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CF6&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+insights+%F0%9F%93%8A;Learning+Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Open+to+Data+Analyst+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2c5364&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data_Analytics-blue?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🔭 What I'm Learning
+## 👨‍💻 About Me
 
-- **Excel**: formulas, pivot tables, data cleaning, dashboards
-- **SQL**: querying, joins, aggregations, subqueries, window functions
-- **Python**: data analysis and automation
-- **Power BI**: data modeling, DAX basics, interactive dashboards
-- **Statistics**: descriptive statistics, probability, hypothesis testing, correlation
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Rohit Kumar"
+        self.role = "Aspiring Data Analyst"
+        self.learning = ["Excel", "SQL", "Python", "Power BI", "Statistics"]
+        self.goal = "Turn data into decisions that matter"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! 👋")
+
+me = DataAnalyst()
+me.say_hi()
+```
+
+I love finding the story hidden inside data. I'm building my skills step by step, practicing on real datasets and creating projects that show how I think and solve problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<div align="center">
+
+### Core Tools
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,excel&theme=dark" />
+
+### Python Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
 
-| Area | Tools |
-|------|-------|
-| Spreadsheets | Excel |
-| Databases | SQL |
-| Programming | Python |
-| Python Libraries | Pandas, NumPy, Matplotlib, Seaborn |
-| Visualization / BI | Power BI, Matplotlib, Seaborn |
-| Concepts | Statistics, Data Cleaning, EDA |
+### BI & Analysis
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-FF6F61?style=for-the-badge&logo=wolfram&logoColor=white)
+
+</div>
 
 ---
 
-## 📁 Projects
+## 📚 What I'm Learning
 
-> I'm adding projects as I learn. Here's what's coming:
+| Skill | What I'm Practicing |
+|:------|:--------------------|
+| 📗 **Excel** | Formulas, Pivot Tables, Data Cleaning, Dashboards |
+| 🗄️ **SQL** | SELECT, JOINs, GROUP BY, Subqueries, Window Functions |
+| 🐍 **Python** | Data cleaning, EDA, automation with Pandas & NumPy |
+| 📊 **Power BI** | Data modeling, DAX basics, interactive dashboards |
+| 📐 **Statistics** | Descriptive stats, probability, hypothesis testing, correlation |
+| 🎨 **Visualization** | Matplotlib & Seaborn charts that tell a story |
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 🔜 Sales Analysis Dashboard | Interactive dashboard of sales trends | Power BI, Excel |
-| 🔜 Exploratory Data Analysis | Cleaning and exploring a real-world dataset | Python, Pandas, Seaborn |
-| 🔜 SQL Business Queries | Answering business questions with SQL | SQL |
+---
+
+## 🚀 Featured Projects
+
+| # | Project | What It Shows | Tools |
+|:-:|:--------|:--------------|:------|
+| 1 | 🔜 **Sales Analysis Dashboard** | Sales trends, KPIs, regional performance | Power BI, Excel |
+| 2 | 🔜 **Exploratory Data Analysis** | Cleaning data and finding patterns | Python, Pandas, Seaborn |
+| 3 | 🔜 **SQL Business Case Study** | Answering business questions with queries | SQL |
+| 4 | 🔜 **Statistical Analysis Report** | Hypothesis testing on a real dataset | Python, Statistics |
+
+> 💡 Projects are being added as I complete them. Stay tuned!
 
 ---
 
 ## 🎯 My Goals
 
-- Build 4–5 strong portfolio projects
-- Strengthen SQL and Python for real-world analysis
-- Land a **Data Analyst** role
-
----
-
-## 📫 Let's Connect
-
-- 📧 **Email:** [rohitkumarq9410@gmail.com](mailto:rohitkumarq9410@gmail.com)
+- [x] Learn the core data analyst toolkit
+- [ ] Build 4–5 strong portfolio projects
+- [ ] Master SQL and Python for real-world analysis
+- [ ] Land a **Data Analyst** role 🎉
 
 ---
 
 ## 📈 GitHub Stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to reach out.*
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumarq9410@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+📧 **rohitkumarq9410@gmail.com**
+
+<br/>
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
