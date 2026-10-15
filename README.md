@@ -1,51 +1,75 @@
 # Hi, I'm Rohit Kumar 👋
 
-### Backend Developer | Python Developer | Django Enthusiast
+### Aspiring Data Analyst | Turning data into insights 📊
 
-I build reliable, scalable backend applications using Python and Django. I enjoy turning ideas into clean APIs, well-structured databases, and maintainable web services.
+I'm passionate about working with data to find patterns, answer business questions, and support better decisions. I'm currently building my skills in data analysis and working toward a career as a **Data Analyst**.
 
-- 🔭 Currently focused on building backend applications with Django
-- 🌱 Learning more about scalable system design, REST APIs, and deployment
-- 💬 Ask me about Python, Django, backend development, and databases
-- ⚡ Goal: Build useful products with clean, efficient code
+---
 
-## Tech Stack
+## 🔭 What I'm Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,git,github,linux,docker,postman" />
-</p>
+- **Excel**: formulas, pivot tables, data cleaning, dashboards
+- **SQL**: querying, joins, aggregations, subqueries, window functions
+- **Python**: data analysis and automation
+- **Power BI**: data modeling, DAX basics, interactive dashboards
+- **Statistics**: descriptive statistics, probability, hypothesis testing, correlation
 
-## What I Work With
+---
 
-- **Backend:** Python, Django, Django REST Framework
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **APIs:** RESTful API development and integration
-- **Tools:** Git, GitHub, Postman, Docker, Linux
+## 🛠️ Tech Stack
 
-## Featured Projects
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Replace these with your best project links and descriptions -->
+| Area | Tools |
+|------|-------|
+| Spreadsheets | Excel |
+| Databases | SQL |
+| Programming | Python |
+| Python Libraries | Pandas, NumPy, Matplotlib, Seaborn |
+| Visualization / BI | Power BI, Matplotlib, Seaborn |
+| Concepts | Statistics, Data Cleaning, EDA |
 
-### [Project Name](https://github.com/rohitkumarq9410)
-A short, results-focused description of the project: what it does, the problem it solves, and the technologies used.
+---
 
-### [Project Name](https://github.com/rohitkumarq9410)
-A short, results-focused description of the project: what it does, the problem it solves, and the technologies used.
+## 📁 Projects
 
-## GitHub Stats
+> I'm adding projects as I learn. Here's what's coming:
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitkumarq9410&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarq9410&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 🔜 Sales Analysis Dashboard | Interactive dashboard of sales trends | Power BI, Excel |
+| 🔜 Exploratory Data Analysis | Cleaning and exploring a real-world dataset | Python, Pandas, Seaborn |
+| 🔜 SQL Business Queries | Answering business questions with SQL | SQL |
 
-## Let's Connect
+---
 
-<p>
-  <a href="https://github.com/rohitkumarq9410">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-kumar-14990239b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🎯 My Goals
+
+- Build 4–5 strong portfolio projects
+- Strengthen SQL and Python for real-world analysis
+- Land a **Data Analyst** role
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** [rohitkumarq9410@gmail.com](mailto:rohitkumarq9410@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to reach out.*
